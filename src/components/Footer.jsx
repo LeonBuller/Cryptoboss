@@ -1,12 +1,6 @@
 import React from "react";
 import { AiOutlineInstagram } from "react-icons/ai";
-import {
-  FaFacebookF,
-  FaGit,
-  FaGithub,
-  FaTiktok,
-  FaTwitter,
-} from "react-icons/fa";
+import { FaFacebookF, FaGithub, FaTiktok, FaTwitter } from "react-icons/fa";
 import ThemeToggle from "./ThemeToggle";
 
 const Footer = () => {
@@ -39,10 +33,10 @@ const Footer = () => {
               <div className="flex justify-center md:justify-end py-4 md:py-0 md:pb-4 mt-[-1rem]">
                 <ThemeToggle />
               </div>
-              <p className="text-center md:text-right">
+              <p className="text-center font-bold md:text-right ">
                 Sign up for crypto news
               </p>
-              <div className="py-4">
+              <div className="py-4 ">
                 <form>
                   <input
                     className="bg-primary border border-input p-2 mr-2 w-full shadow-xl rounded-2xl md:w-auto"
@@ -60,7 +54,6 @@ const Footer = () => {
                 <FaTwitter />
                 <FaFacebookF />
                 <FaGithub />
-                <FaGit />
               </div>
             </div>
           </div>

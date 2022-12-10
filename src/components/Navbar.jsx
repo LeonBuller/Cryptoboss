@@ -96,10 +96,7 @@ const Navbar = () => {
             </li>
           </div>
           <li>
-            <button
-              className=" py-6 justify-center self-center"
-              onClick={handleNav}
-            >
+            <button className=" py-8 ml-20 pl-14" onClick={handleNav}>
               Close Tab
             </button>
           </li>

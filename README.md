@@ -1,4 +1,5 @@
-Fullstack application created using **React** and **Firebase** which allows users create a username using their email or their gmail acount thanks to **OAuth 2.0**. They cant upload a new listing for rent or sale, edit the listing. Used a really interesting package called **LeafletJS** which will show an accurate locaiton of the listing according to the address.
+
+Fullstack application created using **React** and **Firebase** which followed the top 10 crypto currencies right now and also showing the most trending coins of the day thanks to **Coin Gecko API**. The applicaiton allows users create a username using their email and add a new coins to their favorite.
 
 # Getting Started with Create React App
 

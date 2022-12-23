@@ -2,7 +2,9 @@
 Fullstack application created using **React** and **Firebase** which followed the top 10 crypto currencies right now and also showing the most trending coins of the day thanks to **Coin Gecko API**. The applicaiton allows users create a username using their email and add a new coins to their favorite.
 
 
-https://user-images.githubusercontent.com/98963564/209337060-5d167091-96e1-49b4-a817-ff62807de939.mp4
+
+https://user-images.githubusercontent.com/98963564/209337475-3fbb9823-0ed1-474d-a1b6-15a71f1177ca.mp4
+
 
 
 # Getting Started with Create React App
